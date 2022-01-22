@@ -1,0 +1,9 @@
+ul#navBar li {
+    display: inline;
+}
+
+div#navBar {
+    text-align: left;
+    background-color: black;
+    color:white;
+}
